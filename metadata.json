@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise RAG Assistant",
+  "description": "A high-precision Retrieval-Augmented Generation (RAG) tool for enterprise knowledge bases, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
